@@ -1,0 +1,20 @@
+operator:
+    address: 0xe8092642B5fe08667f921e48f2b335ffb3c23407
+    delegation_approver_address: "0x0000000000000000000000000000000000000000"
+    staker_opt_out_window_blocks: 0
+    metadata_url: "https://raw.githubusercontent.com/jpedrosa94/eigenlayer-challenge/refs/heads/main/metadata.json"
+el_delegation_manager_address: 0xA44151489861Fe9e3055d95adC98FbD462B948e7
+eth_rpc_url: https://lb.drpc.org/ogrpc?network=holesky&dkey=Al_GZxZSeEJkiW-btnhK5KdMV5vI61UR7oOS8qIilXTF
+chain_id: 17000
+private_key_store_path: /Users/juliopedrosa/.eigenlayer/operator_keys/ecdsa-key.ecdsa.key.json
+signer_type: local_keystore
+fireblocks:
+    api_key: ""
+    secret_key: ""
+    base_url: ""
+    vault_account_name: ""
+    secret_storage_type: ""
+    aws_region: ""
+    timeout: 0
+web3:
+    url: ""
